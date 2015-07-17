@@ -1,2 +1,4 @@
-this is for playing around. To show checkout and other diff uses.
+asdfasfd
+this is for playing around. To show checkout and diff
 change
+I'll show how diff can look acros versions in history
